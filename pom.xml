@@ -8,6 +8,15 @@
   <artifactId>my-prose-app</artifactId>
   <version>1.0-SNAPSHOT</version>
 
+  <packaging>jar</packaging>
+  <distributionManagement>
+    <repository>
+      <id>mygithub</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/eliseHtw/my-prose-app</url>
+    </repository>
+  </distributionManagement>
+
   <name>my-prose-app</name>
   <description>A simple my-prose-app.</description>
   <!-- FIXME change it to the project's website -->
