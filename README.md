@@ -78,8 +78,9 @@ Schritten:
 
 ## Lizenz
 
-Dieses Projekt steht unter der GPLv3 Lizenz. Es erlaubt freie Nutzung, Modifikation 
-und Verteilung unter Beibehaltung der Lizenzbedingungen.
+Dieses Projekt wird unter der GNU General Public License Version 3 (GPLv3) lizenziert. 
+Es erlaubt freie Nutzung, Modifikation und Verteilung unter Beibehaltung der 
+Lizenzbedingungen. Details findest du in der LICENSE-Datei.
 
 ## Kontakt
 
