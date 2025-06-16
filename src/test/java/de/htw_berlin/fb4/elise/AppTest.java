@@ -1,3 +1,12 @@
+/*
+ * Copyright (C) 2025 eliseHtw
+ *
+ * This program is free software under the terms of GPLv3.
+ * See the GNU General Public License for more details.
+ *
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
+
 package de.htw_berlin.fb4.elise;
 
 import org.junit.jupiter.api.Test;
