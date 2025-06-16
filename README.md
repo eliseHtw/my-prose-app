@@ -1,3 +1,9 @@
+![Java](https://img.shields.io/badge/Java-11%2B-brightgreen.svg)
+![Maven](https://img.shields.io/badge/Maven-3.6.3%2B-brightgreen.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
 # My-Prose-App
 
 **My-Prose-App** ist ein Beispiel für die Verwendung des **Prose-Builder**-Projekts. 
