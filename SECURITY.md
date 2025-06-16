@@ -25,7 +25,7 @@ oder Code-Snippets bei, die das Problem weiter illustrieren.
 
 ## Reaktionsprozess
 
-- Wir bestätigen den Erhalt der Meldung innerhalb von 3 Arbeitstagen.
+- Wir bestätigen den Erhalt der Meldung innerhalb von spätestens 1 Monat.
 - Eine erste Bewertung wird durchgeführt, um die Gültigkeit und den Schweregrad 
 festzustellen.
 - Wir arbeiten mit dir zusammen, falls weitere Informationen notwendig sind.
