@@ -1,3 +1,8 @@
+---
+name: Feature Request
+about: tba
+---
+
 | name            | about                            | title       | labels      | assignees |
 |-----------------|----------------------------------|-------------|-------------|-----------|
 | Feature Request | Suggest an idea for this project | '[FEATURE]' | enhancement | ''        |
