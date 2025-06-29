@@ -32,6 +32,11 @@ public class App
         Sentence s1 = new SimpleSentence();
         ProseBuilder proseBuilder = new ProseBuilder();
         proseBuilder.register(s1);
-        System.out.println(proseBuilder.get());
+        
+        String generatedText = proseBuilder.get();
+        System.out.println(generatedText);
+        
+        // Display statistics for the generated text
+        System.out.println(TextStatistics.generateStatisticsReport(generatedText));
     }
 }
