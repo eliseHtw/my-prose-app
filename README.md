@@ -61,6 +61,9 @@ Das Programm wird eine einfache Nachricht und die generierte Prosa basierend auf
 My-Prose-App ist auf Prose-Builder angewiesen, welches als Maven-Abhängigkeit in der 
 `pom.xml` enthalten ist:
 
+URL zum Repository: https://maven.pkg.github.com/bs-jokri/prose-builder
+(https://github.com/bs-jokri/prose-builder)
+
 ```shell
 <dependency>
   <groupId>de.htw_berlin.fb4.ossd</groupId>
